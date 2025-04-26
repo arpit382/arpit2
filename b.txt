@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is b edited 
+=======
+this is b modified
+>>>>>>> bike
+again
